@@ -24,7 +24,7 @@ npm run client  # React Client Only :3000
 ```
 
 ### Acknowledgements
-Brad Traversy's multiple repos
-Github: https://github.com/bradtraversy
-Website: www.traversymedia.com
-Youtube Channel: https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
+> Brad Traversy
+> [Github](https://github.com/bradtraversy) 
+> [Website](www.traversymedia.com) 
+> [Youtube Channel](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) 
