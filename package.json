@@ -1,5 +1,5 @@
 {
-  "name": "RevCost",
+  "name": "revcost",
   "version": "1.0.0",
   "description": "Vehicle Expense Logger",
   "main": "server.js",
