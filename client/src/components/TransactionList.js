@@ -2,9 +2,6 @@ import React, { Fragment, useContext, useEffect } from 'react';
 import { Transaction } from './Transaction';
 
 import { GlobalContext } from '../context/GlobalState';
-
-//import { LoadingAnim } from '../ui/loading';
-import Spinner from './layout/Spinner';
 import GearSpinner from './layout/GearSpinner';
 
 export const TransactionList = () => {
